@@ -99,9 +99,7 @@ profile:
   show: true
   order: 1
   title: Profile
-  description: |
-
-  Hi there! My name is Yassmine. I'm a recent grad in CompSci, looking to grow my career in DevOps and Cybersecurity. 
+  description: Hi there! My name is Yassmine. I'm a recent grad in CompSci, looking to grow my career in DevOps and Cybersecurity. 
 
 experience:
   show: true
@@ -145,9 +143,7 @@ project:
   show: true
   order: 3
   title: Projects
-  description: |
-
-
+  description: 
   items:
     - name: Applied Security Project, Certificate Authority IT system for ”iMovies” inc.
       description: |
@@ -159,12 +155,12 @@ project:
         • Designed and implemented an end-to-end ACME-based PKI system (server + client) for automated TLS certificate issuance
         • Built HTTP and DNS challenge validation mechanisms, enabling secure domain ownership verification
         • Ensured protocol compliance by following RFC8555, RFC3986, and RFC7515
-        
+
 skill:
   show: false
   order: 4
   title: Skills
-  description: |
+  description: 
     The skills section in a resume is a dedicated section where you can list out the various skills that you possess that are relevant to the job you are applying for. This section allows you to highlight your strengths and demonstrate your capabilities to potential employers.
 
     The skills section can include both hard skills and soft skills. Hard skills are specific technical abilities or knowledge related to a particular job or industry, such as proficiency in programming languages or experience with certain software programs. Soft skills are more general personal traits and abilities, such as communication skills, leadership, problem-solving, or teamwork.
