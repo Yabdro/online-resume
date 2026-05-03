@@ -146,31 +146,20 @@ project:
   order: 3
   title: Projects
   description: |
-    The project section in a resume is a section where you can highlight any significant projects that you have completed during your education, work experience, or personal endeavors. This section provides a detailed description of your projects that can showcase your skills, abilities, and achievements.
 
-    In this section, you should include the name of the project, the role you played in the project, the duration, the tools and technologies you used, the objective of the project, and the outcome or result achieved. You can also include any relevant metrics or data that demonstrate the impact of the project.
-
-    The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.
 
   items:
-    - name: Personal project
-      link: '#'
-      tags:
-      date: 2015 - 2017
+    - name: Applied Security Project, Certificate Authority IT system for ”iMovies” inc.
       description: |
-        Personal project description...
-        + First
-        + Second
-
-    - name: OSS project
-      link:
-      tags: committer
-      date:
+        • In a team of 4, we implemented the functional requirements for a Certificate Authority for a fictional company (certificate issuing, revocation, and administration)
+        • Designed and built the infrastructural components of such a system (CA administration interface servers, user remote access servers, backup and logging servers)
+        • Analyzed the security risks of our designed system
+    - name: Network Security Project, Implement PKI ACME system
       description: |
-        OSS project description...
-        + First
-        + Second
-
+        • Designed and implemented an end-to-end ACME-based PKI system (server + client) for automated TLS certificate issuance
+        • Built HTTP and DNS challenge validation mechanisms, enabling secure domain ownership verification
+        • Ensured protocol compliance by following RFC8555, RFC3986, and RFC7515
+        
 skill:
   show: false
   order: 4
