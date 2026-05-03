@@ -6,7 +6,7 @@ basic:
   name: Yassmine Abdrabo                    # name
   title: Recent graduate working in first-level IT support    # job title
   avatar:
-    show: true                       # show or hide avatar
+    show: false                       # show or hide avatar
     path: /assets/images/profile.png # file path or link to your avatar
 
 contact:
