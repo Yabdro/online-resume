@@ -127,17 +127,16 @@ experience:
         + Manage Kubernetes-based WordPress deployments within the SIP,  handling updates and troubleshooting plugin issues.  
         + Onboard and train OIV representatives from the VSETH commissions and student organizations on IT resource provisioning, system usage, and infrastructure management.
 
-
     - company: BLP Digital
       link:
       tags: Part-time (30%) 
-      date: 2017.03 - 2018.03
-      role: Backend Developer
-      location: Beijing
+      date: 2023.08 - 2024.02
+      role: Machine Learning Intern in Data Labelling
+      location: Zurich
       description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
+        + Labeled and structured business documents for machine learning training pipelines.
+        + Performed data aggregation and preprocessing using Python and Excel.
+        + Supported internal workflows related to ERP systems and business process management.
 
 project:
   show: true
