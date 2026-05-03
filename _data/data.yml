@@ -206,34 +206,36 @@ skill:
         - Skill I
 
 education:
-  show: false
-  order: 5
+  show: true
+  order: 1
   title: Education
-  description: |
-    The education section in a resume is where you provide information about your academic background, including any degrees. In this section, you should include the name and location of the institution where you received your degree, the name of the degree or program you completed, and the date of graduation. If you have earned multiple degrees, list them in reverse chronological order, with the most recent degree first.
-
-    In addition to basic information about your education, you may also want to include any academic honors or awards you received, relevant coursework or projects, and your GPA if it is 3.0 or above. If you have recently graduated and do not have much work experience yet, highlighting your education and academic achievements can help demonstrate your potential to succeed in the workplace.
+  description: 
 
   items:
-    - institution: Example University
+    - institution: ETH, Zurich
       link: '#'
-      date: 2015 - 2018
-      major: Machine Learning
-      degree: Master
+      date: 2026
+      major: Secure and Reliable Systems, Theoretical CS
+      degree: Master of Science in Computer Science 
       description: |
-        Additional information for this institution.
-        + First
-        + Second
+        Thesis: Analysis of Searchable Symmetric Encryptions Under the Random Oracle Model
+        + Conducted a systematic review of Searchable Symmetric Encryption (SSE) schemes with respect to modern security definitions and threat models.
+        + Analyzed and compared security proofs of existing SSE constructions, evaluating their guarantees under evolving formal security definitions.
+        + Developed a simulation-based security proof in the Random Oracle Model for a widely studied SSE construction, extending existing analyses.
 
-    - institution: Example University
-      link:
-      date: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
-      description: |
-        Additional information for this institution.
-        + First
-        + Second
+    - institution: EPF, Lausanne 
+      link: '#'
+      date: 2020
+      major: 
+      degree: Bachelor of Science in Computer Science
+  
+    - institution: Dawson College, Montreal 
+      link: '#'
+      date: 2016
+      major: Sciences pures et appliquées
+      degree: Diplôme d’études collégiales
+ 
+
 
 certificate:
   show: false
