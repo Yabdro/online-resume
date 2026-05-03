@@ -146,14 +146,14 @@ project:
   items:
     - name: Applied Security Project, Certificate Authority IT system for ”iMovies” inc.
       description: |
-        • In a team of 4, we implemented the functional requirements for a Certificate Authority for a fictional company (certificate issuing, revocation, and administration)
-        • Designed and built the infrastructural components of such a system (CA administration interface servers, user remote access servers, backup and logging servers)
-        • Analyzed the security risks of our designed system
+        + In a team of 4, we implemented the functional requirements for a Certificate Authority for a fictional company (certificate issuing, revocation, and administration)
+        + Designed and built the infrastructural components of such a system (CA administration interface servers, user remote access servers, backup and logging servers)
+        + Analyzed the security risks of our designed system
     - name: Network Security Project, Implement PKI ACME system
       description: |
-        • Designed and implemented an end-to-end ACME-based PKI system (server + client) for automated TLS certificate issuance
-        • Built HTTP and DNS challenge validation mechanisms, enabling secure domain ownership verification
-        • Ensured protocol compliance by following RFC8555, RFC3986, and RFC7515
+        + Designed and implemented an end-to-end ACME-based PKI system (server + client) for automated TLS certificate issuance
+        + Built HTTP and DNS challenge validation mechanisms, enabling secure domain ownership verification
+        + Ensured protocol compliance by following RFC8555, RFC3986, and RFC7515
 
 skill:
   show: false
